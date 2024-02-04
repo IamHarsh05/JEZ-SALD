@@ -584,20 +584,6 @@ ul {
     filter: blur(3px);
 }
 
-.banner-shape-2 {
-    top: auto !important;
-    bottom: 0;
-}
-
-.banner-shape-2 img {
-    position: absolute;
-    bottom: 0;
-    right: 82% !important;
-    max-width: 410px;
-    pointer-events: none;
-    filter: blur(3px);
-}
-
 .sec-wp {
     position: relative;
     z-index: 4;
